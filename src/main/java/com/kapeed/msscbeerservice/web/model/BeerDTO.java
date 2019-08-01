@@ -13,7 +13,7 @@ import java.util.UUID;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-class BeerDTO {
+public class BeerDTO {
 
     private UUID id;
     private Integer version;
