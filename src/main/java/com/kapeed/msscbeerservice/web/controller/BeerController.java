@@ -21,7 +21,6 @@ public class BeerController {
                         .builder()
                         .build(),
                 HttpStatus.OK);
-
     }
 
     @PostMapping
