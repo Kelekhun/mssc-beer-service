@@ -6,6 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
+import java.math.BigDecimal;
 import java.util.UUID;
 
 @RequestMapping("/api/v1/beer")
