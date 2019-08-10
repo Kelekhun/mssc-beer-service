@@ -44,5 +44,4 @@ public class Beer {
 
     private Integer minQuantityOnHand;
     private Integer quantityToBrew;
-
 }
